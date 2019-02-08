@@ -61,7 +61,7 @@ body{
     min-height: 300px;
 
 }
-.title {
+.title1,.title {
     position: absolute;
     padding: 20px;
     top: 50%;
@@ -70,6 +70,10 @@ body{
     transform: translate(-50%, -50%);
     -webkit-transform: translate(-50%, -50%);
 
+}
+.title{
+    height:40%;
+	 width: 25%;
 }
 
 .first-name {
